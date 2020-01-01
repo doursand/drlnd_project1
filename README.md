@@ -9,7 +9,7 @@ In this 3D world, a reward of +1 is provided for collecting a yellow banana, and
 
 Here is below an animation of a trained agent
 
-!trained(trainedgif.gif)
+![trained](trainedgif.gif)
 
 The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around the agent's forward direction. Given this information, the agent has to learn how to best select actions. Four discrete actions are available, corresponding to:
 
