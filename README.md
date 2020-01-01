@@ -45,4 +45,4 @@ dqn_agent.py contains the code for the Reinforcement Learning agent
 ### Credit
 
 - Google DeepMind, especially this paper about [Deep Q-Networks](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
-- Udacity for most of the code (largely inspired from one of the nano degree exercise)
+- Udacity (as the code is largely inspired from one of the nano degree exercise)
