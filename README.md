@@ -32,6 +32,16 @@ Then, place the file in the p1_navigation/ folder in the DRLND GitHub repository
 
 (For Windows users) Check out [this link](https://support.microsoft.com/en-us/help/827218/how-to-determine-whether-a-computer-is-running-a-32-bit-version-or-64) if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system.
 
+### dependencies
+
+Apart from the Unity environment, the following libraries are required for this project : matplotlib, numpy, pytorch. All code is using python
+
+### Instruction
+
+The main code is included in the jupyter notebook named Navigation.ipynb
+model.py contains the pytorch neural network definition
+dqn_agent.py contains the code for the Reinforcement Learning agent
+
 ### Credit
 
 All credits go to Udacity as the code presented is largely inspired from one of the nano degree exercise
