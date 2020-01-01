@@ -1,4 +1,4 @@
-# drlnd_project1
+# Udacity Deep Reinforcement Learning nanodegree : project 1
 
 ### Overview
 
